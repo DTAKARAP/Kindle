@@ -18,4 +18,10 @@ The Kindle app is a iOS mobile application that puts millions of books at your f
 
 # Application Screenshots
 
-![Alt Text](url)
+<img src ="https://user-images.githubusercontent.com/46408596/50732591-be9dbb80-1143-11e9-9fae-dcbb3a850507.png" width="198" align="left">
+<img src ="https://user-images.githubusercontent.com/46408596/50732588-ba719e00-1143-11e9-8d71-4974189d4af7.png" align="left" width="198">
+
+<img src ="https://user-images.githubusercontent.com/46408596/50732589-bc3b6180-1143-11e9-84be-80cdddfa92ef.png" width = "198" align="left">
+
+<img src ="https://user-images.githubusercontent.com/46408596/50732587-b776ad80-1143-11e9-8bd2-d724025e2b32.png" width = "198" align="left">
+
