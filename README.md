@@ -1,6 +1,6 @@
 # Kindle
 # Summary
-The Kindle app is a iOS mobile application that puts millions of books at your fingertips. It's the app for every reader, whether you're a book reader, magazine reader, or newspaper reader.
+The Kindle app is a iOS mobile application developed using Swift 4.0 .  This application uses the JSON parsing ability to fetch the list of books to the user
 
 Technologies & Tools: Swift 4.0, XCode, MVC, JSON , GitHub
 
